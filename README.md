@@ -1,4 +1,4 @@
-﻿# 📱 SmartFall – Funny Sounds on Impact  
+﻿# 📱 SmartFall – Funny Sounds on Impact (Android only)
 
 **SmartFall** is a fun mobile app that detects when your phone falls and plays hilarious sounds upon impact!   
 
